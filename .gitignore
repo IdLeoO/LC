@@ -2,3 +2,6 @@
 *.o
 *.DSYM
 
+# Others
+*.sh
+*.jpeg
